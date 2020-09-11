@@ -1,0 +1,13 @@
+C:\GGG\timuocso\bin\Debug\netcoreapp3.1\timuocso.exe
+C:\GGG\timuocso\bin\Debug\netcoreapp3.1\timuocso.deps.json
+C:\GGG\timuocso\bin\Debug\netcoreapp3.1\timuocso.runtimeconfig.json
+C:\GGG\timuocso\bin\Debug\netcoreapp3.1\timuocso.runtimeconfig.dev.json
+C:\GGG\timuocso\bin\Debug\netcoreapp3.1\timuocso.dll
+C:\GGG\timuocso\bin\Debug\netcoreapp3.1\timuocso.pdb
+C:\GGG\timuocso\obj\Debug\netcoreapp3.1\timuocso.csprojAssemblyReference.cache
+C:\GGG\timuocso\obj\Debug\netcoreapp3.1\timuocso.AssemblyInfoInputs.cache
+C:\GGG\timuocso\obj\Debug\netcoreapp3.1\timuocso.AssemblyInfo.cs
+C:\GGG\timuocso\obj\Debug\netcoreapp3.1\timuocso.csproj.CoreCompileInputs.cache
+C:\GGG\timuocso\obj\Debug\netcoreapp3.1\timuocso.dll
+C:\GGG\timuocso\obj\Debug\netcoreapp3.1\timuocso.pdb
+C:\GGG\timuocso\obj\Debug\netcoreapp3.1\timuocso.genruntimeconfig.cache
